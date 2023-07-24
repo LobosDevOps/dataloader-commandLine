@@ -1,0 +1,5 @@
+#Mapping values
+#Mon Jul 24 12:00:16 JST 2023
+ForeignKey__c=ForeignKey__c
+ParentObject__c=ParentObject__r\:ForeignKey__c
+Text1__c=Text1__c

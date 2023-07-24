@@ -1,0 +1,40 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+    <bean id="processParentObjectUpsert"
+          class="com.salesforce.dataloader.process.ProcessRunner"
+          scope="prototype">
+        <description>ParentObject Object Upsert Batch</description>
+        <property name="name" value="processParentObjectUpsert"/>
+        <property name="configOverrideMap">
+            <map>
+                <entry key="sfdc.entity" value="ParentObject__c"/>
+                <entry key="process.mappingFile" value="..\sdl\parentObject.sdl"/>
+                <entry key="process.outputError" value="..\error\parentObject_upsert_error.csv"/>
+                <entry key="process.outputSuccess" value="..\success\parentObject_upsert_success.csv"/>
+                <entry key="dataAccess.type" value="csvRead"/>
+                <entry key="dataAccess.name" value="..\data\parentObjectData.csv"/>
+                <entry key="process.operation" value="upsert"/>
+                <entry key="sfdc.externalIdField" value="ForeignKey__c"/>
+            </map>
+        </property>
+    </bean>
+    <bean id="processChildObject1Upsert"
+          class="com.salesforce.dataloader.process.ProcessRunner"
+          scope="prototype">
+        <description>ChildObject1 Object Upsert Batch</description>
+        <property name="name" value="processChildObject1Upsert"/>
+        <property name="configOverrideMap">
+            <map>
+                <entry key="sfdc.entity" value="ChildObject1__c"/>
+                <entry key="process.mappingFile" value="..\sdl\childObject1.sdl"/>
+                <entry key="process.outputError" value="..\error\childObject1_upsert_error.csv"/>
+                <entry key="process.outputSuccess" value="..\success\childObject1_upsert_success.csv"/>
+                <entry key="dataAccess.type" value="csvRead"/>
+                <entry key="dataAccess.name" value="..\data\childObject1Data.csv"/>
+                <entry key="process.operation" value="upsert"/>
+                <entry key="sfdc.externalIdField" value="ForeignKey__c"/>
+            </map>
+        </property>
+    </bean>
+
+</beans>

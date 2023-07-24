@@ -1,0 +1,4 @@
+Text1__c,ForeignKey__c,OwnerId
+Text1-Parent-data1,ParentData1,立花 良一
+Text1-Parent-data2,,立花 良一
+Text1-Parent-data3,ParentData3,立花 良一

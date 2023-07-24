@@ -1,0 +1,2 @@
+"TEXT1__C","FOREIGNKEY__C","OWNERID","ERROR"
+"Text1-Parent-data2","","立花 良一","MISSING_ARGUMENT:ForeignKey__c not specified"

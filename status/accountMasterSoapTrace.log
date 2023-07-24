@@ -1,0 +1,336 @@
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+ </env:Header>
+ <env:Body>
+  <m:login xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:username>r.tachibana@playful-otter-dwc62i.com</m:username>
+   <m:password>1qazxsw2Edi4yavVNLM5vJDuiUUqsUUaI</m:password>
+  </m:login>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+ </env:Header>
+ <env:Body>
+  <m:login xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:username>r.tachibana@playful-otter-dwc62i.com</m:username>
+   <m:password>1qazxsw2Edi4yavVNLM5vJDuiUUqsUUaI</m:password>
+  </m:login>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+  <SessionHeader xmlns="urn:partner.soap.sforce.com">
+   <sessionId>00D5i00000EVSAR!AQ0AQPwz1RRjRwkLpdEEff6I4opOGSAP67QH4V9xDohSzWWCgpajxZlT.kX.1qZ6oM7WwS7rH62gYFQeh1TnkaWahA5Ofj.o</sessionId>
+  </SessionHeader>
+ </env:Header>
+ <env:Body>
+  <m:describeSObject xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:sObjectType>ParentObject</m:sObjectType>
+  </m:describeSObject>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+ </env:Header>
+ <env:Body>
+  <m:login xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:username>r.tachibana@playful-otter-dwc62i.com</m:username>
+   <m:password>1qazxsw2Edi4yavVNLM5vJDuiUUqsUUaI</m:password>
+  </m:login>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+  <SessionHeader xmlns="urn:partner.soap.sforce.com">
+   <sessionId>00D5i00000EVSAR!AQ0AQPwz1RRjRwkLpdEEff6I4opOGSAP67QH4V9xDohSzWWCgpajxZlT.kX.1qZ6oM7WwS7rH62gYFQeh1TnkaWahA5Ofj.o</sessionId>
+  </SessionHeader>
+ </env:Header>
+ <env:Body>
+  <m:describeSObject xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:sObjectType>ParentObject__c</m:sObjectType>
+  </m:describeSObject>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+  <SessionHeader xmlns="urn:partner.soap.sforce.com">
+   <sessionId>00D5i00000EVSAR!AQ0AQPwz1RRjRwkLpdEEff6I4opOGSAP67QH4V9xDohSzWWCgpajxZlT.kX.1qZ6oM7WwS7rH62gYFQeh1TnkaWahA5Ofj.o</sessionId>
+  </SessionHeader>
+ </env:Header>
+ <env:Body>
+  <m:describeGlobal xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com" />
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+ </env:Header>
+ <env:Body>
+  <m:login xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:username>r.tachibana@playful-otter-dwc62i.com</m:username>
+   <m:password>1qazxsw2Edi4yavVNLM5vJDuiUUqsUUaI</m:password>
+  </m:login>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+  <SessionHeader xmlns="urn:partner.soap.sforce.com">
+   <sessionId>00D5i00000EVSAR!AQ0AQPwz1RRjRwkLpdEEff6I4opOGSAP67QH4V9xDohSzWWCgpajxZlT.kX.1qZ6oM7WwS7rH62gYFQeh1TnkaWahA5Ofj.o</sessionId>
+  </SessionHeader>
+ </env:Header>
+ <env:Body>
+  <m:describeSObject xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:sObjectType>ParentObject__c</m:sObjectType>
+  </m:describeSObject>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+  <SessionHeader xmlns="urn:partner.soap.sforce.com">
+   <sessionId>00D5i00000EVSAR!AQ0AQPwz1RRjRwkLpdEEff6I4opOGSAP67QH4V9xDohSzWWCgpajxZlT.kX.1qZ6oM7WwS7rH62gYFQeh1TnkaWahA5Ofj.o</sessionId>
+  </SessionHeader>
+ </env:Header>
+ <env:Body>
+  <m:describeGlobal xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com" />
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+ </env:Header>
+ <env:Body>
+  <m:login xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:username>r.tachibana@playful-otter-dwc62i.com</m:username>
+   <m:password>1qazxsw2Edi4yavVNLM5vJDuiUUqsUUaI</m:password>
+  </m:login>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+  <SessionHeader xmlns="urn:partner.soap.sforce.com">
+   <sessionId>00D5i00000EVSAR!AQ0AQPwz1RRjRwkLpdEEff6I4opOGSAP67QH4V9xDohSzWWCgpajxZlT.kX.1qZ6oM7WwS7rH62gYFQeh1TnkaWahA5Ofj.o</sessionId>
+  </SessionHeader>
+ </env:Header>
+ <env:Body>
+  <m:describeSObject xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:sObjectType>ParentObject__c</m:sObjectType>
+  </m:describeSObject>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+  <SessionHeader xmlns="urn:partner.soap.sforce.com">
+   <sessionId>00D5i00000EVSAR!AQ0AQPwz1RRjRwkLpdEEff6I4opOGSAP67QH4V9xDohSzWWCgpajxZlT.kX.1qZ6oM7WwS7rH62gYFQeh1TnkaWahA5Ofj.o</sessionId>
+  </SessionHeader>
+ </env:Header>
+ <env:Body>
+  <m:describeGlobal xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com" />
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+ </env:Header>
+ <env:Body>
+  <m:login xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:username>r.tachibana@playful-otter-dwc62i.com</m:username>
+   <m:password>1qazxsw2Edi4yavVNLM5vJDuiUUqsUUaI</m:password>
+  </m:login>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+  <SessionHeader xmlns="urn:partner.soap.sforce.com">
+   <sessionId>00D5i00000EVSAR!AQ0AQPwz1RRjRwkLpdEEff6I4opOGSAP67QH4V9xDohSzWWCgpajxZlT.kX.1qZ6oM7WwS7rH62gYFQeh1TnkaWahA5Ofj.o</sessionId>
+  </SessionHeader>
+ </env:Header>
+ <env:Body>
+  <m:describeSObject xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:sObjectType>ParentObject__c</m:sObjectType>
+  </m:describeSObject>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+  <SessionHeader xmlns="urn:partner.soap.sforce.com">
+   <sessionId>00D5i00000EVSAR!AQ0AQPwz1RRjRwkLpdEEff6I4opOGSAP67QH4V9xDohSzWWCgpajxZlT.kX.1qZ6oM7WwS7rH62gYFQeh1TnkaWahA5Ofj.o</sessionId>
+  </SessionHeader>
+ </env:Header>
+ <env:Body>
+  <m:describeGlobal xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com" />
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+ </env:Header>
+ <env:Body>
+  <m:login xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:username>r.tachibana@playful-otter-dwc62i.com</m:username>
+   <m:password>1qazxsw2Edi4yavVNLM5vJDuiUUqsUUaI</m:password>
+  </m:login>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+  <SessionHeader xmlns="urn:partner.soap.sforce.com">
+   <sessionId>00D5i00000EVSAR!AQ0AQOlcjyY3a4OIvOFhoHO3C2zyFZ6k4g8rlj1GaHuwz6p4nBzPoldpTxoFQbvQkoIxKnp2vpl7yDvfYowVpog6O.GO3KHA</sessionId>
+  </SessionHeader>
+ </env:Header>
+ <env:Body>
+  <m:describeSObject xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com">
+   <m:sObjectType>ParentObject__c</m:sObjectType>
+  </m:describeSObject>
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------
+------------ Request start   ----------
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope
+   xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <env:Header>
+  <CallOptions xmlns="urn:partner.soap.sforce.com">
+   <client>DataLoaderBulkBatch/54.0.0</client>
+   <defaultNamespace xsi:nil="true" />
+  </CallOptions>
+  <SessionHeader xmlns="urn:partner.soap.sforce.com">
+   <sessionId>00D5i00000EVSAR!AQ0AQOlcjyY3a4OIvOFhoHO3C2zyFZ6k4g8rlj1GaHuwz6p4nBzPoldpTxoFQbvQkoIxKnp2vpl7yDvfYowVpog6O.GO3KHA</sessionId>
+  </SessionHeader>
+ </env:Header>
+ <env:Body>
+  <m:describeGlobal xmlns:m="urn:partner.soap.sforce.com" xmlns:sobj="urn:sobject.partner.soap.sforce.com" />
+ </env:Body>
+</env:Envelope>
+------------ Request end   ----------

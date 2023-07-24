@@ -1,0 +1,3 @@
+"TEXT1__C","FOREIGNKEY__C","PARENTOBJECT__C","ERROR"
+"Text1-Child-data1-2","","ParentData1","MISSING_ARGUMENT:ForeignKey__c not specified"
+"Text1-Child-data2-1","Child-data2-1","ParentData2","INVALID_FIELD:Foreign key external ID: parentdata2 not found for field ForeignKey__c in entity ParentObject__c"

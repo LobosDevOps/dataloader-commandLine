@@ -1,0 +1,96 @@
+Manifest-Version: 1.0
+Created-By: 11.0.12 (Azul Systems, Inc.)
+
+Name: samples/conf/accountInsertMap.sdl
+SHA-256-Digest: qvBspsqpCnWOvpEYavzPp3GP9NmDqs0GdPfcXd4FrjM=
+
+Name: samples/conf/accountExtractMap.sdl
+SHA-256-Digest: cKbcJSLQiZiEP3sSsmYCxrLRv5oHl2k/0SVR18ooq5Y=
+
+Name: configs/log-conf.xml
+SHA-256-Digest: mSE8NIwq4RaL7gDRpKN8bDZqgK7adEyK/p4WKfEIsmQ=
+
+Name: swtwin32_x86_64/swtwin32_x86_64-4.22.jar
+SHA-256-Digest: dbTjDjfL5h/urochS1d44rjJrIz2RPnsaXKWDFvmGWY=
+
+Name: samples/conf/database-conf.xml
+SHA-256-Digest: H6B50uc+/Bv98+usf60tWHKoqZoztkRPqD4jc2wuBL8=
+
+Name: samples/conf/process-conf.xml
+SHA-256-Digest: XxcNzBItWVpqaOaQvwSLN0emK9gIVYlZcMUPKR7BQx0=
+
+Name: configs/config.properties
+SHA-256-Digest: rG26JZ5JQH+CBUytCC15oNlAwTv0C7SKcFdHOYWBu0g=
+
+Name: bin/encrypt.bat
+SHA-256-Digest: CwCVG+AOtxZjVO2hY0uBZmbr3deSBsofLL/jTqnp9bk=
+
+Name: samples/conf/sample.key
+SHA-256-Digest: U6JWHjFMKF9M0C6FSbzcxCWDBvBt3gMeRNAD/mQmAik=
+
+Name: samples/status/success0413060133.csv
+SHA-256-Digest: UXPgwJBZ63PmkRufUYeJjRhLWglNtJ4bOZAsbQ8a/s4=
+
+Name: samples/conf/accountMasterMap.sdl
+SHA-256-Digest: MP/gtVuXjzGydco+nHuleHtRUvh6QYqyTM4ubuwJabM=
+
+Name: dataloader-54.0.0-uber.jar
+SHA-256-Digest: eP2JDg29/zmPrvMuWkVBA2DoMN5kZZEkVEdvkt/rTn0=
+
+Name: samples/conf/accountUpdateMap.sdl
+SHA-256-Digest: fJQA2e7pMoCwYq2ZYqJlHhP8ICuBH4a7zKn+GPIR/WY=
+
+Name: samples/data/opportunityData.csv
+SHA-256-Digest: RK3B3dYgUdM3UvIahr8++sD6TSUL6IKUE6Hlo+2fT2I=
+
+Name: swtwin32_x86_64/swt-wgl-win32-4948r9.dll
+SHA-256-Digest: DM+vVHFG8ZJmo5Okk2kRB0GBdM5m51haeVg1a/XOB8M=
+
+Name: dataloader.bat
+SHA-256-Digest: BvZiKDsnwhGKQZV2vQ+YDibwt0QO5q0f8+D+pi30yG0=
+
+Name: dataloader.ico
+SHA-256-Digest: /S7zfG47zg1rJlzxXmNibuCIEwOhgkSzwwO6xq8ICs0=
+
+Name: bin/process.bat
+SHA-256-Digest: 2jtBg2oOz5T2gRCVoK1EiNYH45xp12cUa/qfgBkiRhM=
+
+Name: samples/status/accountMasterSoapTrace.log
+SHA-256-Digest: s0KXR80XMrm1KyyWv4R0bFYidXEoruwLfXz4Ig6RY94=
+
+Name: install.bat
+SHA-256-Digest: A8qF4hz8dzCOjTbXWtgQ4fdoA3ABslzHKYzgPbQSfis=
+
+Name: swtwin32_x86_64/swt-awt-win32-4948r9.dll
+SHA-256-Digest: 54loiTxXqWlAzLGj5Lf7fVRqHzpYZTZywSbk5ddiEMw=
+
+Name: samples/conf/accountExtractToDbMap.sdl
+SHA-256-Digest: ANBGMfyYV+4zIzOV+btOmdn3JsR5l8I+q4oPoeBpwDA=
+
+Name: samples/conf/opportunityUpdateMap.sdl
+SHA-256-Digest: jIhmIn5h0NtmYMyTdiV+fAIlDg+pG8/fxSASmQ+P9GM=
+
+Name: samples/conf/opportunityInsertMap.sdl
+SHA-256-Digest: VLEcLfesD2po1fxu9TTHSr5xivGsuoAQSY7k1RovYj0=
+
+Name: samples/conf/opportunityUpsertMap.sdl
+SHA-256-Digest: n/KjkmYFj1cCEBUJLAA+vBQ8PpP1CixalduXO0wNJZs=
+
+Name: samples/status/error0413060133.csv
+SHA-256-Digest: mxMffv6tvLkt9wHDE/dr80bZUhZNu8SDpeKGKEeLHVU=
+
+Name: swtwin32_x86_64/WebView2Loader.dll
+SHA-256-Digest: p9RrCTbJXqkzr7aNU0UBG6NnkaQmiRiVJiitsRaDaIw=
+
+Name: samples/conf/log-conf.xml
+SHA-256-Digest: mSE8NIwq4RaL7gDRpKN8bDZqgK7adEyK/p4WKfEIsmQ=
+
+Name: samples/data/accountData.csv
+SHA-256-Digest: iULtbkGJj4Z0JdNH5nyyuqFWh41p/xC7uuZAM97cLvk=
+
+Name: swtwin32_x86_64/swt-win32-4948r9.dll
+SHA-256-Digest: Ftz0HZKK0OypfHsI/OKTGeCmDj1kw+H+7BPMNPUaSGY=
+
+Name: swtwin32_x86_64/swt-gdip-win32-4948r9.dll
+SHA-256-Digest: zMf3jRu6fTNEmKm1AwuwYQNSKwiKPdaosPsJd2a98Fg=
+

@@ -1,0 +1,5 @@
+#Mapping values
+#Mon Jul 24 14:12:47 JST 2023
+ForeignKey__c=ForeignKey__c
+OwnerId=IKO_User__r\:ForeignKey__c
+Text1__c=Text1__c
